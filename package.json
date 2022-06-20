@@ -1,5 +1,9 @@
 {
-  "name": "ecommerce",
+  "engines" : { 
+    "npm" : ">=8.11.0",
+    "node" : ">=16.15.1"
+  },
+  "name": "dashbord",
   "version": "1.0.0",
   "description": "",
   "main": "backend/server.js",
